@@ -1,5 +1,5 @@
 # Goal
-replicate  the resnet-50 network from scratch
+Replicate  the resnet-50 network from scratch
 
 # the network architecture
 I'll use the 3 bottleneck layers in the 34-layer net.
